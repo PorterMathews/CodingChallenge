@@ -3,3 +3,12 @@
 //
 
 #include "main.h"
+#include <string>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "dogs r cool..";
+    return 0;
+}
