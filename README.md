@@ -1,10 +1,10 @@
 # CodingChallenge
 
-The program is ment to be ran from the command line. All you will need is an IDE that compiles and runs C++ code. 
- 
-I uploaded a PDF of my initual thoughts and sudo code. I started with this rough outline. I jotted some edge cases to think about after writing the first draft of my code. I finished the first and most of the edge case managment between 2.5 and 3 hours in. My goal was to make a robust code that wouldn't brake from user input. I then went back though and looked to clarify comments and check for efficentcy. I highly suspect that there are faster ways to do what I did, I am just not familiar with best practices for writing fast code, but I am interested in learning. With reviewing my code and playing the game, I did use all 4 hours. 
+The program is meant to be run from the command line. All you will need is an IDE that compiles and runs C++ code.
 
-I also noticed that I didn't read 4 b close enough and missed what it was asking me to do. I already had a vector keeping track of guessed letters. I could have made a new one for missed letter and had that print out with every guess.
+I uploaded a PDF of my initial thoughts and pseudocode. I started with this rough outline, jotting down some edge cases to consider after writing the first draft of my code. I completed the first draft and most of the edge case management between 2.5 and 3 hours in. My goal was to create robust code that wouldn't break due to user input. I then went back through the code to clarify comments and check for efficiency. I suspect there are faster ways to achieve what I did, and while I'm not yet familiar with the best practices for writing fast code, I am keen on learning. Reviewing my code and playing the game took the full 4 hours allotted.
+
+I also realized that I didn't read item 4b closely enough and missed what it was asking me to do. I already had a vector tracking guessed letters. I could have created a new one for missed letters and had it displayed with every guess.
 
 Here is a link to CLion in case you need a IDE https://www.jetbrains.com/clion/download/#section=windows. I'll put the steps bellow to get g++ working. I don't think you'll need this, but I do want to give you everything you'll need to compile and run the code.
 
